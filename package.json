@@ -6,11 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": {
+    "name": "Roman Krasevych",
+    "email": "krasevych@gmail.com"
+  },
   "keywords": [
     "delay",
     "wait",
-    "sleep"
+    "sleep",
+    "promise",
+    "resolve",
+    "defer",
+    "stall",
+    "timeout",
+    "settimeout",
+    "event",
+    "next",
+    "tick",
+    "async",
+    "await",
+    "promises"
   ],
-  "author": "'Krasevych <'krasevych@gmail.com'>",
   "license": "MIT"
 }
