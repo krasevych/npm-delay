@@ -1,0 +1,16 @@
+{
+  "name": "npm-delay",
+  "version": "1.0.0",
+  "description": "delay before run next command",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "delay",
+    "wait",
+    "sleep"
+  ],
+  "author": "'Krasevych <'krasevych@gmail.com'>",
+  "license": "MIT"
+}
