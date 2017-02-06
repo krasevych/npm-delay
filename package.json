@@ -1,6 +1,6 @@
 {
   "name": "npm-delay",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "delay before run next command",
   "main": "index.js",
   "scripts": {
