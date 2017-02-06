@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "delay before run next command",
   "main": "index.js",
+  "repository": "krasevych/npm-delay",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
