@@ -1,10 +1,13 @@
 {
   "name": "npm-delay",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "delay before run next command",
   "main": "index.js",
   "repository": "krasevych/npm-delay",
-  "bin": "index.js",
+
+  "bin": {
+    "npm-delay": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
