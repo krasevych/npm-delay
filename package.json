@@ -4,12 +4,11 @@
   "description": "delay before run next command",
   "main": "index.js",
   "repository": "krasevych/npm-delay",
-
   "bin": {
-    "npm-delay": "index.js"
+    "npm-delay": "bin.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./index.js 5000"
   },
   "author": {
     "name": "Roman Krasevych",
