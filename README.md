@@ -17,7 +17,7 @@ package.json
 ```
   "scripts": {
     "dev:server:delay": "run-s delay dev:server:start",
-    "delay": "node ./node_modules/npm-delay 1000",
+    "delay": "npm-delay 1000",
     "dev:server:start": "node ./src/server.js",
   },
 ```
